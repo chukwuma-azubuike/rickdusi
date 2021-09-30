@@ -1,6 +1,6 @@
 export default function Button(props) {
     return (
-        <button className='bg-accent-400 px-10 py-2 shadow-lg mt-6 hover:bg-accent-100' >
+        <button className={props.className} onClick={props.onClick} >
             {props.text}
         </button>
     )

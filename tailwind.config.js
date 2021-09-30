@@ -3,6 +3,10 @@ module.exports = {
   // darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      screens:{
+        'phone': "320px",
+        'phonemax': { 'max': '321px' },
+      },
       colors: {
         black: '#000000',
         white: '#FFFFFF',
