@@ -2,6 +2,9 @@
   "name": "client",
   "homepage": "http://chukwuma-azubuike.github.io/rick-dusi",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.3.0",
