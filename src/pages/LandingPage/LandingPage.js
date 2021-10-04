@@ -31,7 +31,7 @@ function LandingPage() {
                 <h1 className='md:px-32 lg:px-56 px-2 xl:text-8xl lg:text-7xl sm:text-6xl text-4xl my-3 py-1 leading-none font-semibold' >
                     WEBSITE COMING SOON
                 </h1>
-                <h5 className='py-2 text-2xl my-6' >NEARLY READY!</h5>
+                <h5 className='py-2 text-2xl my-6' >LOADING!</h5>
                 <div className='bg-gray-100 w-4/5 sm:w-96 m-auto h-4 my-8' >
                     <div style={{ width: progress, transition: 'ease 1s all' }} className='progress-bar w-56 bg-blue-400 h-4' />
                     <div className='relative flex justify-between top-2 progress-label'>
