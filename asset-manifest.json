@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rickdusi/static/css/main.bb143613.chunk.css",
+    "main.js": "/rickdusi/static/js/main.439ccea9.chunk.js",
+    "main.js.map": "/rickdusi/static/js/main.439ccea9.chunk.js.map",
+    "runtime-main.js": "/rickdusi/static/js/runtime-main.d1c7aeb5.js",
+    "runtime-main.js.map": "/rickdusi/static/js/runtime-main.d1c7aeb5.js.map",
+    "static/js/2.20aae7d7.chunk.js": "/rickdusi/static/js/2.20aae7d7.chunk.js",
+    "static/js/2.20aae7d7.chunk.js.map": "/rickdusi/static/js/2.20aae7d7.chunk.js.map",
+    "index.html": "/rickdusi/index.html",
+    "static/css/main.bb143613.chunk.css.map": "/rickdusi/static/css/main.bb143613.chunk.css.map",
+    "static/js/2.20aae7d7.chunk.js.LICENSE.txt": "/rickdusi/static/js/2.20aae7d7.chunk.js.LICENSE.txt",
+    "static/media/logo-white-cropped.8e471716.png": "/rickdusi/static/media/logo-white-cropped.8e471716.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c7aeb5.js",
+    "static/js/2.20aae7d7.chunk.js",
+    "static/css/main.bb143613.chunk.css",
+    "static/js/main.439ccea9.chunk.js"
+  ]
+}
